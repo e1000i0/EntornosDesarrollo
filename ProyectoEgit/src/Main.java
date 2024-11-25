@@ -10,3 +10,9 @@ public class Main {
         numero2 = sc.nextInt();
     }
 }
+//Agregamos el metodo suma
+public static int suma(int a, int b) {
+    int c;
+    c = a + b;
+    return c;
+}
