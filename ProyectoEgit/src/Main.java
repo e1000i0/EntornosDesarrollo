@@ -16,3 +16,9 @@ public static int producto(int a, int b) {
     c = a * b;
     return c;
 }
+//Agregamos el metodo dividir
+public static int dividir(int a, int b) {
+    int c;
+    c = a / b;
+    return c;
+}
